@@ -1,0 +1,11 @@
+---
+title: "Reflexions on review project : FGM-data ; Pleiotropy ; Meta-analysis meta-genomes
+  and compensation"
+output: pdf_document
+---
+
+# Inferences on data in the FGM
+
+# Pleiotropy
+
+# Meta-analysis of compensation
